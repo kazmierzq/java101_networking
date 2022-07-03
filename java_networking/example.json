@@ -1,0 +1,10 @@
+{
+  "company" : {
+    "name" : "Software Ltd",
+    "products" : [ "games", "websites", "training" ],
+    "address" : {
+      "city": "Warsaw",
+      "country" : "Poland"
+    }
+  }
+}
